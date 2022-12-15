@@ -8,4 +8,4 @@
 ![](https://raw.githubusercontent.com/maxoehm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/maxoehm/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/maxoehm/github-stats/master/generated/languages.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/maxoehm/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,java,kotlin,maven,mysql,redis,spring,css,docker,git,github,hibernate,html,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,kotlin,github,hibernate,maven,java,mysql,spring,react,css,docker,git,html,js)](https://skillicons.dev)
