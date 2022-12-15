@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/maxoehm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/maxoehm/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/maxoehm/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/maxoehm/my-github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 **maxoehm/maxoehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
