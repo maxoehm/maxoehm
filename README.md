@@ -1,7 +1,7 @@
 ### ✨ Hey there, I'm Max ✨
 
 - 🌱 I’m currently trying to grow as developer :).
-- 💫 I love physics (especially quantum physics), web dev & design, and AI - even though I don't get it.
+- 💫 I love physics (especially quantum physics), web dev & design, and AI.
 - 👯 I'd be happpy to collaborate with you on any intresting web project.
 - ⚡ Fun fact: YouTube was created to be a dating site.
 
